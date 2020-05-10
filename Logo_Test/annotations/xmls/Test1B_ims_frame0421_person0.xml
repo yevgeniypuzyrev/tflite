@@ -1,0 +1,26 @@
+<annotation>
+	<folder>People_with_logos</folder>
+	<filename>Test1B_ims_frame0421_person0.jpg</filename>
+	<path>/Users/ad843s/Desktop/OCR/Replicating_Yev_work/retrain_data/People_with_logos/Test1B_ims_frame0421_person0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>441</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>attlogo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>140</ymin>
+			<xmax>200</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
