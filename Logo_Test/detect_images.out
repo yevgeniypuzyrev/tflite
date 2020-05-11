@@ -1,0 +1,329 @@
+logo_images/Test1B_ims_frame0211_person2.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+22.27 ms
+7.16 ms
+6.71 ms
+6.40 ms
+8.38 ms
+-------RESULTS--------
+No objects detected
+logo_images/Test1B_ims_frame0223_person2.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+22.09 ms
+7.28 ms
+6.22 ms
+6.18 ms
+7.83 ms
+-------RESULTS--------
+No objects detected
+logo_images/Test1B_ims_frame0265_person1.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+21.62 ms
+5.84 ms
+6.19 ms
+5.55 ms
+5.54 ms
+-------RESULTS--------
+No objects detected
+logo_images/Test1B_ims_frame0281_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.38 ms
+5.61 ms
+6.95 ms
+6.29 ms
+5.49 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.98828125
+  bbox:   BBox(xmin=164, ymin=171, xmax=189, ymax=198)
+logo_images/Test1B_ims_frame0289_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.81 ms
+6.51 ms
+6.50 ms
+6.51 ms
+6.50 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.640625
+  bbox:   BBox(xmin=173, ymin=172, xmax=194, ymax=203)
+logo_images/Test1B_ims_frame0290_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.92 ms
+5.57 ms
+5.57 ms
+5.92 ms
+6.53 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.98046875
+  bbox:   BBox(xmin=175, ymin=166, xmax=195, ymax=195)
+logo_images/Test1B_ims_frame0307_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.84 ms
+5.98 ms
+7.90 ms
+6.42 ms
+6.47 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=175, ymin=162, xmax=199, ymax=189)
+logo_images/Test1B_ims_frame0312_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.05 ms
+7.57 ms
+6.22 ms
+7.38 ms
+6.42 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.98828125
+  bbox:   BBox(xmin=174, ymin=159, xmax=196, ymax=186)
+logo_images/Test1B_ims_frame0330_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.15 ms
+5.64 ms
+6.48 ms
+6.49 ms
+7.97 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=180, ymin=157, xmax=203, ymax=185)
+logo_images/Test1B_ims_frame0331_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.84 ms
+6.54 ms
+6.97 ms
+5.45 ms
+6.94 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=181, ymin=155, xmax=203, ymax=183)
+logo_images/Test1B_ims_frame0337_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.64 ms
+6.21 ms
+6.95 ms
+6.47 ms
+5.50 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=184, ymin=155, xmax=207, ymax=182)
+logo_images/Test1B_ims_frame0348_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.94 ms
+7.44 ms
+6.95 ms
+6.93 ms
+5.94 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.98046875
+  bbox:   BBox(xmin=170, ymin=155, xmax=194, ymax=184)
+logo_images/Test1B_ims_frame0363_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.59 ms
+7.26 ms
+6.47 ms
+7.92 ms
+6.42 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=170, ymin=145, xmax=194, ymax=173)
+logo_images/Test1B_ims_frame0364_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.51 ms
+5.49 ms
+5.98 ms
+6.45 ms
+7.99 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.98828125
+  bbox:   BBox(xmin=171, ymin=147, xmax=197, ymax=176)
+logo_images/Test1B_ims_frame0365_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+21.24 ms
+7.29 ms
+7.98 ms
+6.43 ms
+6.51 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.96875
+  bbox:   BBox(xmin=170, ymin=149, xmax=195, ymax=176)
+logo_images/Test1B_ims_frame0374_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.38 ms
+5.93 ms
+5.99 ms
+5.51 ms
+6.97 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=175, ymin=141, xmax=197, ymax=167)
+logo_images/Test1B_ims_frame0380_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.80 ms
+5.48 ms
+5.63 ms
+5.97 ms
+5.94 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=176, ymin=147, xmax=199, ymax=174)
+logo_images/Test1B_ims_frame0388_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.14 ms
+5.92 ms
+5.93 ms
+5.94 ms
+6.91 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=176, ymin=143, xmax=198, ymax=171)
+logo_images/Test1B_ims_frame0389_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.69 ms
+6.31 ms
+6.96 ms
+6.50 ms
+6.49 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=175, ymin=146, xmax=197, ymax=173)
+logo_images/Test1B_ims_frame0397_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.61 ms
+5.74 ms
+7.49 ms
+7.00 ms
+6.50 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=175, ymin=140, xmax=196, ymax=167)
+logo_images/Test1B_ims_frame0404_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+18.80 ms
+5.65 ms
+6.95 ms
+5.91 ms
+5.48 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=178, ymin=137, xmax=199, ymax=164)
+logo_images/Test1B_ims_frame0412_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.01 ms
+7.59 ms
+6.41 ms
+7.48 ms
+5.90 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=179, ymin=137, xmax=200, ymax=163)
+logo_images/Test1B_ims_frame0421_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.81 ms
+6.74 ms
+7.96 ms
+6.97 ms
+6.49 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=175, ymin=141, xmax=197, ymax=167)
+logo_images/Test1B_ims_frame0431_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+20.89 ms
+6.81 ms
+6.51 ms
+7.97 ms
+6.94 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=177, ymin=141, xmax=199, ymax=169)
+logo_images/Test1B_ims_frame0439_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+18.83 ms
+5.50 ms
+5.50 ms
+6.07 ms
+5.48 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=176, ymin=143, xmax=197, ymax=170)
+logo_images/Test1B_ims_frame0459_person0.jpg
+----INFERENCE TIME----
+Note: The first inference is slow because it includes loading the model into Edge TPU memory.
+19.41 ms
+6.01 ms
+6.46 ms
+6.46 ms
+6.08 ms
+-------RESULTS--------
+0
+  id:     0
+  score:  0.99609375
+  bbox:   BBox(xmin=182, ymin=163, xmax=203, ymax=187)
